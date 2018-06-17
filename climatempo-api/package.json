@@ -1,0 +1,22 @@
+{
+  "name": "climatempo-api",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"http://www.climatempo.com.br\">\r       <img src=\"http://i.imgur.com/Q9lCAMF.png\" alt=\"Climatempo\" width=\"300px\"/>\r   </a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanhld/challenge-accepted.git"
+  },
+  "author": "Jean Holderbaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanhld/challenge-accepted/issues"
+  },
+  "homepage": "https://github.com/jeanhld/challenge-accepted#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
